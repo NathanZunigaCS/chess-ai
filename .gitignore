@@ -13,6 +13,7 @@ venv/
 # Data / models
 data/
 *.pgn
+*.pgn.zst
 *.pt
 *.h5
 *.onnx
